@@ -10,5 +10,5 @@
 
 ## Badges
 
-![Estrellas](https://img.shields.io/github/stars/TU_NOMBRE_DE_USUARIO/TU_REPOSITORIO?style=social)
-![Forks](https://img.shields.io/github/forks/TU_NOMBRE_DE_USUARIO/TU_REPOSITORIO?style=social)
+![Estrellas](https://img.shields.io/github/stars/sepmgit/sepmgit?style=social)
+![Forks](https://img.shields.io/github/forks/sepmgit/sepmgitO?style=social)
